@@ -4,16 +4,7 @@
 ## About Me
 I am a passionate full-stack developer with over 10+ years of experience in building web applications. I specialize in JavaScript technologies and have a strong background in both front-end and back-end development.
 
-## Projects
-### Project 1: E-Commerce Platform
-- **Description:** Developed a scalable e-commerce platform using MERN stack (MongoDB, Express.js, React.js, Node.js).
-- **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Redux, Bootstrap.
-- **Features:** User authentication, product management, shopping cart functionality.
 
-### Project 2: Task Management App
-- **Description:** Built a task management application with CRUD operations for tasks and user authentication.
-- **Technologies Used:** Angular, Spring Boot, MySQL, JWT authentication.
-- **Features:** Task creation, assignment, status tracking, user management.
 
 ## Skills
 - JavaScript (ES6+), TypeScript
