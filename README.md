@@ -242,9 +242,6 @@ I am a passionate full-stack developer with over 10+ years of experience in buil
     </tr>
 </table>
 
-## Contact Me
-- Email: kellypatrick1113@gmail.com
-
 ## Contributions and Interests
 - Actively contribute to open-source projects related to JavaScript and web development.
 - Interested in exploring new technologies and frameworks to enhance my skills.
